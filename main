@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <conio.h>
+
+void main(){
+
+printf("soy el fuelgo que arde tu piel");
+return 0;
+
+}
